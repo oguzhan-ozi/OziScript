@@ -1,0 +1,2 @@
+# OziScript
+My install script
